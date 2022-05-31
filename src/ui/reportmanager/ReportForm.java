@@ -15,6 +15,8 @@ public class ReportForm {
     private JLabel Maengel;
     private JLabel Schaden;
     private JPanel panel;
+    private JLabel kunden_id;
+    private JTextField textField_kunden;
 
     public ReportForm() {
 
